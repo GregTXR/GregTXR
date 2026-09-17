@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img data-importer="snake" src="https://raw.githubusercontent.com/gregsaid/gregsaid/snake-output/snake.svg" alt="Snake animation" />
+  <img data-importer="snake" src="https://raw.githubusercontent.com/gregtxr/gregtxr/snake-output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
