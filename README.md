@@ -1,12 +1,11 @@
-<h2 align="center">Olá, sou o Gregory Teixeira - Desenvolvedor Web.</h2>
+<img width="438" height="283" alt="image" src="https://github.com/user-attachments/assets/d550841e-cd74-4437-a2c5-5aea56bb7613" /><h2 align="center">Olá, sou o Gregory Teixeira - Desenvolvedor Web.</h2>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GregSaid&theme=github-dark&radius=0&area=true&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GregSaid&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
+  <img data-importer="snake" src="https://raw.githubusercontent.com/gregsaid/gregsaid/snake-output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
