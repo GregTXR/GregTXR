@@ -1,4 +1,4 @@
-<img width="438" height="283" alt="image" src="https://github.com/user-attachments/assets/d550841e-cd74-4437-a2c5-5aea56bb7613" /><h2 align="center">Olá, sou o Gregory Teixeira - Desenvolvedor Web.</h2>
+<h2 align="center">Olá, sou o Gregory Teixeira - Desenvolvedor Web.</h2>
 
 ###
 
